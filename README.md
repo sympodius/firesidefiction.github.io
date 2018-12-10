@@ -43,7 +43,7 @@ Let's go through each one individually.
 ## Front matter
 Every piece of content that we post to Fireside *must* include front matter. The front matter *must* be the first thing in the document, and *must* be surrounded by three dashes. The front matter *must* be in YAML format, which is simply: `parameter: value`.
 
-Here's what it a basic story or post looks like:
+Here's what a basic story or post looks like:
 like:
 
 > ---
